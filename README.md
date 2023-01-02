@@ -1,7 +1,7 @@
 # WebScrapping-Project
 # flipkart-Web-Scraping-using-python
 
-Basically it contains code and procedures of how we can scrap any web and get tons of information. It is easy to understand. You should include two python linraries while working with it
+Basically it contains code and procedures with Jupyter notebook of how we can scrap any web and get tons of information. It is easy to understand.
 
 BEAUTIFUL SOUP
 Beautiful Soup is a Python library for pulling data out of HTML and XML files. It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree. It commonly saves programmers hours or days of work.
